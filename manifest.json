@@ -10,8 +10,8 @@
       "bytes": 262811
     },
     "wool-scripts": {
-      "files": 4851,
-      "bytes": 66689519
+      "files": 4852,
+      "bytes": 66689629
     },
     "loonkiss-surge": {
       "files": 513,
@@ -24,6 +24,14 @@
     "hub-kelee-one": {
       "files": 50,
       "bytes": 17115815
+    },
+    "nutrepo": {
+      "files": 61,
+      "bytes": 249707
+    },
+    "ddgksf2013-top": {
+      "files": 2,
+      "bytes": 105126
     }
   },
   "files": {
@@ -3057,6 +3065,7 @@
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/BenLaiShengHuo.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/BenLaiShengHuo.snippet",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/GaoDingDesign.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/GaoDingDesign.snippet",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/NetEase.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/NetEase.snippet",
+    "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/NetEaseCloud.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/NetEaseCloud.snippet",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/NetEaseCloudMusic.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/NetEaseCloudMusic.snippet",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/NetEaseDashen.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/NetEaseDashen.snippet",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/split/partW/NetEaseKaola.snippet": "wool-scripts/QuantumultX/rewrite/split/partW/NetEaseKaola.snippet",
@@ -6864,6 +6873,69 @@
     "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/QuantumultX/Config/Quantumult_X_Advanced_Config%28Full_Type_Policy_Group%29_By_iKeLee.conf": "hub-kelee-one/Tool/QuantumultX/Config/Quantumult_X_Advanced_Config(Full_Type_Policy_Group)_By_iKeLee.conf",
     "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/QuantumultX/Config/Quantumult_X_Auto_Select_Config_By_iKeLee.conf": "hub-kelee-one/Tool/QuantumultX/Config/Quantumult_X_Auto_Select_Config_By_iKeLee.conf",
     "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/QuantumultX/Config/README.md": "hub-kelee-one/Tool/QuantumultX/Config/README.md",
-    "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/QuantumultX/Rewrite/TestFlight.snippet": "hub-kelee-one/Tool/QuantumultX/Rewrite/TestFlight.snippet"
+    "https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/QuantumultX/Rewrite/TestFlight.snippet": "hub-kelee-one/Tool/QuantumultX/Rewrite/TestFlight.snippet",
+    "https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.plugin": "nutrepo/github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.plugin",
+    "https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.sgmodule": "nutrepo/github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.sgmodule",
+    "https://github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.snippet": "nutrepo/github.com/BiliUniverse/ADBlock/releases/latest/download/BiliBili.ADBlock.snippet",
+    "https://github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.plugin": "nutrepo/github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.plugin",
+    "https://github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.sgmodule": "nutrepo/github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.sgmodule",
+    "https://github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.snippet": "nutrepo/github.com/BiliUniverse/Enhanced/releases/latest/download/Biliverse.Enhanced.snippet",
+    "https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.plugin": "nutrepo/github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.plugin",
+    "https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule": "nutrepo/github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.sgmodule",
+    "https://github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.snippet": "nutrepo/github.com/BiliUniverse/Global/releases/latest/download/BiliBili.Global.snippet",
+    "https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.plugin": "nutrepo/github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.plugin",
+    "https://github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule": "nutrepo/github.com/BiliUniverse/Redirect/releases/latest/download/BiliBili.Redirect.sgmodule",
+    "https://github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.plugin": "nutrepo/github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.plugin",
+    "https://github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.sgmodule": "nutrepo/github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.sgmodule",
+    "https://github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.snippet": "nutrepo/github.com/DualSubs/Netflix/releases/latest/download/DualSubs.Netflix.snippet",
+    "https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.plugin": "nutrepo/github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.plugin",
+    "https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.sgmodule": "nutrepo/github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.sgmodule",
+    "https://github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.snippet": "nutrepo/github.com/DualSubs/Spotify/releases/latest/download/DualSubs.Spotify.snippet",
+    "https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.plugin": "nutrepo/github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.plugin",
+    "https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.sgmodule": "nutrepo/github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.sgmodule",
+    "https://github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet": "nutrepo/github.com/DualSubs/YouTube/releases/latest/download/DualSubs.YouTube.snippet",
+    "https://github.com/kokoryh/Sparkle/raw/refs/heads/master/release/surge/module/bilibili.sgmodule": "nutrepo/github.com/kokoryh/Sparkle/raw/refs/heads/master/release/surge/module/bilibili.sgmodule",
+    "https://github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule": "nutrepo/github.com/Maasea/sgmodule/raw/master/YouTube.Enhance.sgmodule",
+    "https://github.com/Maasea/sgmodule/raw/refs/heads/master/Bilibili.Helper.sgmodule": "nutrepo/github.com/Maasea/sgmodule/raw/refs/heads/master/Bilibili.Helper.sgmodule",
+    "https://github.com/Maasea/sgmodule/raw/refs/heads/master/KeepAds.sgmodule": "nutrepo/github.com/Maasea/sgmodule/raw/refs/heads/master/KeepAds.sgmodule",
+    "https://github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.plugin": "nutrepo/github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.plugin",
+    "https://github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.sgmodule": "nutrepo/github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.sgmodule",
+    "https://github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.snippet": "nutrepo/github.com/NSRingo/Maps/releases/latest/download/iRingo.Maps.snippet",
+    "https://github.com/NSRingo/News/releases/latest/download/iRingo.News.plugin": "nutrepo/github.com/NSRingo/News/releases/latest/download/iRingo.News.plugin",
+    "https://github.com/NSRingo/News/releases/latest/download/iRingo.News.sgmodule": "nutrepo/github.com/NSRingo/News/releases/latest/download/iRingo.News.sgmodule",
+    "https://github.com/NSRingo/News/releases/latest/download/iRingo.News.snippet": "nutrepo/github.com/NSRingo/News/releases/latest/download/iRingo.News.snippet",
+    "https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.lpx": "nutrepo/github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.lpx",
+    "https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.sgmodule": "nutrepo/github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.sgmodule",
+    "https://github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.snippet": "nutrepo/github.com/NSRingo/WeatherKit/releases/latest/download/iRingo.WeatherKit.snippet",
+    "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule": "nutrepo/raw.githubusercontent.com/app2smile/rules/master/module/bilibili.sgmodule",
+    "https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.sgmodule": "nutrepo/raw.githubusercontent.com/app2smile/rules/master/module/qidian.sgmodule",
+    "https://raw.githubusercontent.com/app2smile/rules/master/module/spotify.module": "nutrepo/raw.githubusercontent.com/app2smile/rules/master/module/spotify.module",
+    "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule": "nutrepo/raw.githubusercontent.com/app2smile/rules/master/module/tieba.sgmodule",
+    "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin": "nutrepo/raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.loon.plugin",
+    "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule": "nutrepo/raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule",
+    "https://raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.plugin": "nutrepo/raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.plugin",
+    "https://raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.sgmodule": "nutrepo/raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.sgmodule",
+    "https://raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.snippet": "nutrepo/raw.githubusercontent.com/ClydeTime/BiliBili/main/modules/BiliBili.Modified.snippet",
+    "https://raw.githubusercontent.com/ClydeTime/BiliBili/refs/heads/main/modules/BiliBiliDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/ClydeTime/BiliBili/refs/heads/main/modules/BiliBiliDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BahamutAnimeAds.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BahamutAnimeAds.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BahamutDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BahamutDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BiliComicsDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BiliComicsDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BiliComicsExchangePoints.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/BiliComicsExchangePoints.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/CtripDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/CtripDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/DisneyRating.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/DisneyRating.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/GoogleCAPTCHA.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/GoogleCAPTCHA.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/HuiJuDongManAds.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/HuiJuDongManAds.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/IPA_install.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/IPA_install.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/iQIYIDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/iQIYIDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/KuaiKanComicsDailyBonus.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/KuaiKanComicsDailyBonus.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/NewBing.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/NewBing.sgmodule",
+    "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule": "nutrepo/raw.githubusercontent.com/NobyDa/Script/master/Surge/Module/TestFlightAccount.sgmodule",
+    "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.loon.plugin": "nutrepo/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.beta.loon.plugin",
+    "https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule": "nutrepo/raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule",
+    "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin": "nutrepo/raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Loon.plugin",
+    "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snippet": "nutrepo/raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/QX.snippet",
+    "https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule": "nutrepo/raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge.sgmodule",
+    "https://ddgksf2013.top": "ddgksf2013-top/links.json",
+    "https://gist.githubusercontent.com/ddgksf2013/c92191e7fb0caa201c2c778e00913e8c/raw/baidupanweb.user.js": "ddgksf2013-top/gist.githubusercontent.com/ddgksf2013/c92191e7fb0caa201c2c778e00913e8c/raw/baidupanweb.user.js"
   }
 }

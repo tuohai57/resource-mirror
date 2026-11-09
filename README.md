@@ -20,6 +20,9 @@ jsDelivr 只能读公开仓库，本仓库为 public。
 | `loonkiss-surge/` | `QingRex/LoonKissSurge`，即 `surge.qingr.moe` 目录页所列文件 |
 | `yfamilys/` | `yfamilys.com` 的 `/rule/*.list` 规则集 |
 | `hub-kelee-one/` | `luestr/ProxyResource`，`hub.kelee.one` 插件中心的数据仓库 |
+| `nutrepo/` | `nutrepo.com` 前端 JS 内嵌的模块链接（BiliUniverse / DualSubs / NSRingo / NobyDa 等） |
+| `ddgksf2013-top/` | 导航站 119 个资源入口清单 + 其中唯一的 gist 脚本 |
+| `rule-index.json` | `README-RULE.md` 规则列表的结构化索引（733 条，含各类安装链接） |
 | `manifest.json` | 原始 URL → 本地路径 的映射表 |
 | `SOURCES.md` | 来源、许可证、抓取时间、未镜像项说明 |
 | `SCAN_REPORT.md` | 上传前的敏感信息扫描结果 |

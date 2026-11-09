@@ -1,0 +1,17 @@
+#!name=📺 BiliBili: 👘 Modified
+#!desc=哔哩哔哩：👘 皮肤
+#!openUrl=http://boxjs.com/#/app/BiliBili.clydetime.sub
+#!author=MartinsKing
+#!icon=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/database/icon_Avatar.png
+#!category= MK
+
+#[rewrite_local]
+# 📺 BiliBili.Modified.skin.app.json
+^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\? url script-response-body https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBili.Modified.response.js
+# 📺 BiliBili.Modified.account.app.json
+^https:\/\/app\.bilibili\.com\/x\/v2\/(account\/(myinfo|mine)|space)([\/?]|$) url script-response-body https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBili.Modified.response.js
+# 📺 BiliBili.Modified.vip.app.json
+^https:\/\/api\.bilibili\.com\/x\/vip\/(web\/vip_center\/combine|price\/panel\/lexi|top_panel_info) url script-response-body https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBili.Modified.response.js
+
+#[MITM]
+hostname = app.bilibili.com, api.bilibili.com
