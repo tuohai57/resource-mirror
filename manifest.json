@@ -10,16 +10,16 @@
       "bytes": 262811
     },
     "wool-scripts": {
-      "files": 4850,
-      "bytes": 66647775
+      "files": 4851,
+      "bytes": 66689519
     },
     "loonkiss-surge": {
       "files": 513,
       "bytes": 1672200
     },
     "yfamilys": {
-      "files": 1406,
-      "bytes": 19232615
+      "files": 1408,
+      "bytes": 19233690
     },
     "hub-kelee-one": {
       "files": 50,
@@ -532,6 +532,7 @@
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/paypal_%E5%89%AF%E6%9C%AC.png": "wool-scripts/icons/apps/paypal_副本.png",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/Peach.png": "wool-scripts/icons/apps/Peach.png",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PetronasTowers.png": "wool-scripts/icons/apps/PetronasTowers.png",
+    "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PikPak.png": "wool-scripts/icons/apps/PikPak.png",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo.png": "wool-scripts/icons/apps/pinduoduo.png",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/pinduoduo_01.png": "wool-scripts/icons/apps/pinduoduo_01.png",
     "https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/PingMe.png": "wool-scripts/icons/apps/PingMe.png",
@@ -5537,6 +5538,8 @@
     "https://yfamilys.com/rule/ASN-CN.list": "yfamilys/rule/ASN-CN.list",
     "https://yfamilys.com/rule/ASN-lite.list": "yfamilys/rule/ASN-lite.list",
     "https://yfamilys.com/rule/Asobo.list": "yfamilys/rule/Asobo.list",
+    "https://yfamilys.com/rule/Assassin%27sCreed-Odyssey.list": "yfamilys/rule/Assassin'sCreed-Odyssey.list",
+    "https://yfamilys.com/rule/Assassin%27sCreed-Origins.list": "yfamilys/rule/Assassin'sCreed-Origins.list",
     "https://yfamilys.com/rule/ASUS.list": "yfamilys/rule/ASUS.list",
     "https://yfamilys.com/rule/Atlassian.list": "yfamilys/rule/Atlassian.list",
     "https://yfamilys.com/rule/Atomdata.list": "yfamilys/rule/Atomdata.list",

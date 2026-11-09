@@ -7,9 +7,9 @@
 | 目录 | 上游 | 许可证 | 文件数 | 体积 |
 |---|---|---|---|---|
 | `rule-set/` | https://github.com/QuixoticHeart/rule-set | GPL-3.0 | 16 | 0.25 MB |
-| `wool-scripts/` | https://github.com/fmz200/wool_scripts | GPL-3.0 | 4850 | 63.56 MB |
+| `wool-scripts/` | https://github.com/fmz200/wool_scripts | GPL-3.0 | 4851 | 63.60 MB |
 | `loonkiss-surge/` | https://github.com/QingRex/LoonKissSurge (surge.qingr.moe) | 未在仓库声明 | 513 | 1.59 MB |
-| `yfamilys/` | https://yfamilys.com | 未在站点声明 | 1406 | 18.34 MB |
+| `yfamilys/` | https://yfamilys.com | 未在站点声明 | 1408 | 18.34 MB |
 | `hub-kelee-one/` | https://github.com/luestr/ProxyResource (hub.kelee.one) | NOASSERTION（自定义） | 50 | 16.32 MB |
 
 ## 未镜像及原因
